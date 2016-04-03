@@ -8,6 +8,11 @@
   src:url('../fonts/ABeeZee-Regular.ttf') format('truetype');
 }
 
+@font-face {
+  font-family: amoceanus;
+  src:url('../fonts/AMOceanus.ttf') format('truetype');
+}
+
 body {
     width: 100%;
     height: 100%;
