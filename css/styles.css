@@ -1,3 +1,12 @@
+@font-face {
+  font-family: ar-destine;
+  src:url('../fonts/ARDESTINE.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: abeezee;
+  src:url('../fonts/ABeeZee-Regular.ttf') format('truetype');
+}
 
 body {
     width: 100%;
@@ -64,7 +73,7 @@ html {
 h1,h2,h3,h4,h5,h6 {
     margin: 0 0 35px;
     text-transform: uppercase;
-    font-family: ar destine medium;
+    font-family: "ar-destine", serif;
     font-weight: 700;
     letter-spacing: 1px;
 }
@@ -78,7 +87,7 @@ p {
 }
 
 .brand-heading {
-    font-family: ar destine medium;
+    font-family: ar-destine , serif;
     color: #33ccff;
 }
 
@@ -272,7 +281,6 @@ a:focus {
 
     .intro .intro-body .brand-heading {
         font-size: 100px;
-        font-family:
     }
 
     .intro .intro-body .intro-text {
