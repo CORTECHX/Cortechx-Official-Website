@@ -8,10 +8,6 @@
   src:url('../fonts/ABeeZee-Regular.ttf') format('truetype');
 }
 
-@font-face {
-  font-family: amoceanus;
-  src:url('../fonts/AMOceanus.ttf') format('truetype');
-}
 
 body {
     width: 100%;
@@ -50,7 +46,7 @@ body {
    }
 
    #light p {
-     font-family: amoceanus;
+     font-family: abeezee regular;
    }
 
    #light img {
