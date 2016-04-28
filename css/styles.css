@@ -95,6 +95,7 @@ p {
 
 @media(min-width:768px) {
     p {
+        font-family: abeezee regular;
         margin: 0 0 35px;
         font-size: 20px;
         line-height: 1.6;
